@@ -1,0 +1,13 @@
+---
+title: "Awards"
+output: html_document
+---
+
+
+* 2020          ASTIN Colloquium, Best Paper Award
+* 2016 - 2019   Society of Actuaries, Hickman Scholar Award 
+* 2015          JII Research Awards (Catastrophe, Weather and Insurance), Best Paper Award
+
+
+
+* * *

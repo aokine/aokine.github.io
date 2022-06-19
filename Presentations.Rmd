@@ -1,0 +1,33 @@
+---
+title: "Presentations"
+output: html_document
+---
+
+“Individual-level loss reserving and environmental changes” 
+
+*	24th International Congress on Insurance: Mathematics and Economics, 2021. 
+*	Bentley University Seminar, 2021.
+
+“Loss Data Analytics: Short Course” 
+
+*	56th Actuarial Research Conference, 2021. 
+
+“Joint Models for Individual-Level Loss Reserving” 
+
+*	ASTIN Webinar, 2020 (Contributed)
+*	54th Actuarial Research Conference, 2019, Indianapolis, IN.
+*	Annual Meeting of the American Risk and Insurance Association (ARIA), 2019, San Francisco, CA.
+*	Huebner Doctoral Colloquium at ARIA, 2019, San Francisco, CA.
+
+“Using Machine Learning to Flag Workers’ Compensation Insurance Companies at Risk of Insolvency” with James Jones 
+
+*	Annual Meeting of the Western Risk and Insurance Association, 2016, Maui, HI.
+
+“Drought Triggered Index Insurance Using Cluster Analysis of Rainfall Affected by Climate Change” with Asker Choudhury, James Jones and Raquiba Choudhury.
+
+*	St.John’s University/JII symposium, 2015, New York, NY.
+
+
+
+
+* * *

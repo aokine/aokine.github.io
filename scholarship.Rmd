@@ -1,0 +1,38 @@
+---
+title: ""
+output: html_document
+---
+
+
+
+**Publications**
+
+[Google Schorlar Citation](https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=4&gmla=AJsN-F4eRynE1IvRTW46-MS8qvAAvRJnUU0ZuvA6140jGwI97f0sUV9QouuoAGSLZdv1W710kRgDkOUoDtMIZjPqZ3lgFBnO6d3n3AxRWszH7pnND2mAcxc&user=rSJIHZ0AAAAJ)
+
+* Okine, A.N (2022). Individual-level loss reserving and environmental changes. Variance. Accepted March 2022.
+
+* Okine, A.N, Frees, E., Shi, P. (2021). Joint model prediction and application to individual-level
+      loss reserving. ASTIN Bulletin. Published Online Nov. 5th, 2021. 
+
+* Choudhury, A., Jones, J., Okine, A. and Choudhury, R. (2016). Drought Triggered Index    
+   Insurance Using Cluster Analysis of Rainfall Affected by Climate Change. Journal of Insurance Issues,   
+   Vol 39:2, pp 169-86.
+
+
+**Book Chapter/Open Educational Resources**
+
+
+* Frees, E. W., Okine, A. N.  and  Saridas, E. S. (2019). Dependence Modeling. In Loss Data    
+  Analytics. Retrieved from https://ewfrees.github.io/Loss-Data-Analytics
+
+* Higgins, T., Huang F., Okine, A. N.,  Sahasrabuddhe, R. (2021). Modeling Loss Severity. In Loss Data Analytics: Short Course.  Retrieved from https://openacttextdev.github.io/LDACourse1/
+
+
+**Other Research:**
+
+* Joint research with members of the International Association of Black Actuaries (IABA): "Assessment of IABA's Scholarship & Boot Camp Programs: An Empirical Analysis," 2019
+
+
+
+
+* * *

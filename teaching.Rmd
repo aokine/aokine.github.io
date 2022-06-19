@@ -1,0 +1,22 @@
+---
+title: "Teaching"
+output: html_document
+---
+
+<i class="glyphicon glyphicon-star"></i> This page shows courses taught from Fall 2020 forward. <i class="glyphicon glyphicon-thumbs-up"></i>
+
+
+## Classes
+
+* MAT 3330: Financial Mathematics 
+* MAT 3340: Actuarial Models (Long Term)
+* MAT 3345: Actuarial Models (Short Term)
+* STT 2810: Into to Statistics
+* STT 2820: Reasoning with Statistics 
+* STT 3850: Statistical Data Analysis 
+* STT 4840: Regression and Time Series Forecasting 
+
+
+
+
+* * *

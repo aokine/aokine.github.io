@@ -1,0 +1,20 @@
+---
+title: "Welcome!"
+---
+
+<figure>
+<img src="./images/OkineNiiNew.png" alt="Alan" align="left" hspace="20" style="width:100px;height:100px;">
+</figure>
+
+
+The Society of Actuaries (2010): An actuary is a business professional who analyzes the financial consequences of risk. Actuaries use mathematics, statistics, and financial theory to study uncertain future events, especially those of concern to insurance and pension programs. They evaluate the likelihood of those events and design creative ways to reduce the likelihood and decrease the impact of adverse events that actually do occur.
+
+Actuaries are an important part of the management team of the companies that employ them. Their work requires a combination of strong analytical skills, business knowledge and understanding of human behavior to design and manage programs that control risk.
+
+My research interest includes micro-level reserving, ratemaking, dependence modeling, micro-insurance, and machine learning. If you are taking a class from me or are interested in these topics and would like to discuss them further, please contact me using my email in the footer. 
+
+
+This website was last rendered on `r format(Sys.time(), "%A, %B %d, %Y - %X.")`
+
+
+* * *

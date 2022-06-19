@@ -1,0 +1,37 @@
+
+name: "okinean.github.io"
+output_dir: "."
+navbar:
+  title: "A. Nii-Armah Okine"
+  left:
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Scholarship"
+      href: scholarship.html
+    - text: "Professional Development"
+      href: Professional.html
+    - text: "Presentations"
+      href: Presentations.html
+    - text: "Awards"
+      href: Awards.html
+    - text: "Resources"
+      href: resources.html
+
+
+    
+  right:
+    - text: ""
+      icon: glyphicon-info-sign
+      href: about.html
+    - icon: fa-github fa-lg
+      href: https://github.com/aokine/okinean.github.io  
+    
+
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+    include:
+      after_body: footer.html
+    css: alans.css  
+      
