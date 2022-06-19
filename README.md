@@ -1,4 +1,4 @@
 # web
 
-Academic [website](https://alanarnholt.github.io/) for Alan T. Arnholt.
+Academic [website](https://github.com/aokine/okinean.github.io/) for A. Nii-Armah Okine.
 
