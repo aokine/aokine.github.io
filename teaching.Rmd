@@ -8,13 +8,15 @@ output: html_document
 
 ## Classes
 
+* STT 4840: Regression and Time Series Forecasting 
 * MAT 3330: Financial Mathematics 
 * MAT 3340: Actuarial Models (Long Term)
 * MAT 3345: Actuarial Models (Short Term)
-* STT 2810: Into to Statistics
-* STT 2820: Reasoning with Statistics 
 * STT 3850: Statistical Data Analysis 
-* STT 4840: Regression and Time Series Forecasting 
+* STT 2810: Intro to Statistics
+* STT 2820: Reasoning with Statistics 
+* MAT 1110: Calculus 1
+
 
 
 
