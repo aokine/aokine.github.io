@@ -9,7 +9,9 @@ output: html_document
 
 [Google Schorlar Citation](https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=4&gmla=AJsN-F4eRynE1IvRTW46-MS8qvAAvRJnUU0ZuvA6140jGwI97f0sUV9QouuoAGSLZdv1W710kRgDkOUoDtMIZjPqZ3lgFBnO6d3n3AxRWszH7pnND2mAcxc&user=rSJIHZ0AAAAJ)
 
-* Okine, A.N (2022). Individual-level loss reserving and environmental changes. Variance. Accepted March 2022.
+* Okine, A. (2023). Ratemaking in a changing environment. ASTIN Bulletin: The Journal of the IAA, 1-23. doi:10.1017/asb.2023.23
+
+* Okine, A.N (2022). Okine, A. Nii-Armah. 2023. “Individual-Level Loss Reserving and Environmental Changes.” Variance 16 (1)
 
 * Okine, A.N, Frees, E., Shi, P. (2021). Joint model prediction and application to individual-level
       loss reserving. ASTIN Bulletin. Published Online Nov. 5th, 2021. 
