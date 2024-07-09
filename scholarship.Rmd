@@ -23,11 +23,15 @@ output: html_document
 
 **Book Chapter/Open Educational Resources**
 
+* Frees, E. W., Okine, A. N.  and  Saridas, E. S. (2023). Quantifying Dependence. In Loss Data    
+   Analytics (2nd ed.) Retrieved from https://openacttextdev.github.io/LDA_Ed2/
+
+* Higgins, T., Huang F., Okine, A. N.,  Sahasrabuddhe, R. (2021). Modeling Loss Severity. In Loss Data Analytics: Short Course.  Retrieved from https://openacttextdev.github.io/LDACourse1/
 
 * Frees, E. W., Okine, A. N.  and  Saridas, E. S. (2019). Dependence Modeling. In Loss Data    
   Analytics. Retrieved from https://ewfrees.github.io/Loss-Data-Analytics
 
-* Higgins, T., Huang F., Okine, A. N.,  Sahasrabuddhe, R. (2021). Modeling Loss Severity. In Loss Data Analytics: Short Course.  Retrieved from https://openacttextdev.github.io/LDACourse1/
+
 
 
 **Other Research:**
