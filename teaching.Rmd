@@ -13,6 +13,7 @@ output: html_document
 * MAT 3340: Actuarial Models (Long Term)
 * MAT 3345: Actuarial Models (Short Term)
 * STT 3850: Statistical Data Analysis 
+* STT 3851: Statistical Learning 1
 * STT 2810: Intro to Statistics
 * STT 2820: Reasoning with Statistics 
 * MAT 1110: Calculus 1
