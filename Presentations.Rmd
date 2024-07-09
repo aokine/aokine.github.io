@@ -6,6 +6,7 @@ output: html_document
 
 - Invited and Contributed Conference Talks
 
+    - 59th Actuarial Research Conference,July 2024- “Causality-based feature selection and application to insurance analytics.”
     - 57th Actuarial Research Conference,Aug 2022- “Ratemaking in a Changing Environment.”
     - 25th International Congress on Insurance: Mathematics and Economics, July 2022- “Ratemaking in a Changing Environment.”
     - 56th Actuarial Research Conference, Aug 2021- “Loss Data Analytics: Short Course”, with Edward Frees. 
