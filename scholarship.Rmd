@@ -5,9 +5,12 @@ output: html_document
 
 
 
+
 **Publications**
 
 [Google Schorlar Citation](https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=4&gmla=AJsN-F4eRynE1IvRTW46-MS8qvAAvRJnUU0ZuvA6140jGwI97f0sUV9QouuoAGSLZdv1W710kRgDkOUoDtMIZjPqZ3lgFBnO6d3n3AxRWszH7pnND2mAcxc&user=rSJIHZ0AAAAJ)
+
+* Marland, E., Baldwin, A., Beecher, A., D'Andrea, J., Erickson, K., Hartling, K., McMorris, D.,Mendiratta, V., Okine, A. N., & Pinzon, K. (2024). Judges' commentary: Sustainability in property insurance. UMAP Journal, 45(3), Fall 2024 Edition.
 
 * Okine, A. (2023). Ratemaking in a changing environment. ASTIN Bulletin: The Journal of the IAA, 1-23. doi:10.1017/asb.2023.23
 
@@ -39,6 +42,14 @@ output: html_document
 * Joint research with members of the International Association of Black Actuaries (IABA): "Assessment of IABA's Scholarship & Boot Camp Programs: An Empirical Analysis," 2019
 
 
+**Grants:**
 
+* Lee, G. and Okine, A.N. (2025). Casualty Actuarial Society, Individual Grant Competition. $15,000
+    Title of Project: Loss reserving with textual description of claim
+    Role: Co-principal investigator
+
+* Okine, A.N. (2022). CAS Research/Proposal Development Summer Grant. $5,000
+    Title of Project: Ratemaking in a Changing Environment
+    Role: Principal investigator
 
 * * *
