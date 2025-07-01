@@ -1,5 +1,5 @@
 ---
-title: "Presentations"
+title: "Selected Presentations"
 output: html_document
 ---
 
@@ -20,6 +20,8 @@ output: html_document
 
 - Colloquium & Seminar/Webinar Talks
 
+    - ASTIN Webinar with Edward Frees, Zeinab Amin, Brian Hartman, Rajesh Sahasrabuddhe, Ronald Richman, and Eric Dal Moro, Apr 2025- “Actuarial Fundamentals & Loss Data Analytics Webinars.”
+    - UNC Charlotte, Dept. of Mathematics and Statistics Seminar, Sept 2024- “Ratemaking in a Changing Environment.”
     - ASTIN Webinar, Sept 2022- “Ratemaking in a Changing Environment.”
     - The Australia National University, Research School of Finance, Actuarial Studies and Statistics Seminar, May 2022- “Ratemaking in a Changing Environment.”
     - Appalachian State University, Mathematics Department Colloquium, Apr 2022- “Ratemaking in a Changing Environment.”
