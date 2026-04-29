@@ -26,6 +26,9 @@ output: html_document
 
 **Book Chapter/Open Educational Resources**
 
+*    Okine, A. N. (2026). mqriskR: Actuarial Risk Modeling and Life Contingencies. R package
+    version 0.1.0. Available at: https://CRAN.R-project.org/package=mqriskR
+
 * Frees, E. W., Okine, A. N.  and  Saridas, E. S. (2023). Quantifying Dependence. In Loss Data    
    Analytics (2nd ed.) Retrieved from https://openacttextdev.github.io/LDA_Ed2/
 
